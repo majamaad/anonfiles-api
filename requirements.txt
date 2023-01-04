@@ -1,0 +1,5 @@
+requests==2.26.0
+requests-toolbelt==0.9.1
+tqdm==4.60.0
+importlib-metadata==4.0.1
+anonfile==0.2.7

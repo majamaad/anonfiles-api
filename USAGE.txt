@@ -1,0 +1,1 @@
+run the main.py with git bash or cmd or system terminal. the files automaticly download to downloads folder, an anonfiles account is required for uploading.
